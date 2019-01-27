@@ -1,7 +1,8 @@
 # introduction-to-data-science-using-Microsoft-Azure-and-Excel
 This is the result of the course "Introduction to Data Science" from Edx. powered by Microsoft. 
 
-##Limonade project
+##Limonade project##
+
 is the name of the project Because the data used in this project is about the amount of lemonade that a person sold over a year, these data include the amount of lemonade sold each day, as well as the temperature, amount of rain, flayers distributed etc. 
 
 In this course i have made some statistical calculations in Excel, These calculations include:basic calculations such as mean, median, fashion, standard deviation, etc.
