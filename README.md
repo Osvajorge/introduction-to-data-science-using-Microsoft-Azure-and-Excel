@@ -8,7 +8,7 @@ You will also find some PivoteTables and charts in which you can make different 
 
 
 [Clustering calculations by Azure](https://gallery.cortanaintelligence.com/Experiment/Lemonade-Clustering-Customers-3)
-https://gallery.cortanaintelligence.com/Experiment/Lemonade-Classification-5
-https://gallery.azure.ai/Experiment/Predict-Lemonade-Sales-5
+[Classification by Azure](https://gallery.cortanaintelligence.com/Experiment/Lemonade-Classification-5)
+[Predicting sales by Azure](https://gallery.azure.ai/Experiment/Predict-Lemonade-Sales-5)
 
 
